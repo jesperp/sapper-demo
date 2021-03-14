@@ -45,7 +45,5 @@
 <img src="https://picsum.photos/seed/jklasdf/400" alt="">
 
 <figure>
-	<figcaption>#Have fun with Sapper!</figcaption>
+	<figcaption>Deployed on Vercel</figcaption>
 </figure>
-
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
